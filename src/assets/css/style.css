@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Pacifico-Regular;
+    src: url(../font/Pacifico-Regular.ttf);
+  }
+  
+  body div{
+    font-family: Pacifico-Regular;
+  }
