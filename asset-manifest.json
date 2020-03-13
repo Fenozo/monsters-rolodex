@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/monsters-rolodex/static/css/main.aa470901.chunk.css",
+    "main.js": "/monsters-rolodex/static/js/main.ca8f55b8.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.ca8f55b8.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.4d62735d.js",
+    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.4d62735d.js.map",
+    "static/js/2.8c403217.chunk.js": "/monsters-rolodex/static/js/2.8c403217.chunk.js",
+    "static/js/2.8c403217.chunk.js.map": "/monsters-rolodex/static/js/2.8c403217.chunk.js.map",
+    "index.html": "/monsters-rolodex/index.html",
+    "precache-manifest.efc3461540136613f9c2ba2c0f1bd358.js": "/monsters-rolodex/precache-manifest.efc3461540136613f9c2ba2c0f1bd358.js",
+    "service-worker.js": "/monsters-rolodex/service-worker.js",
+    "static/css/main.aa470901.chunk.css.map": "/monsters-rolodex/static/css/main.aa470901.chunk.css.map",
+    "static/js/2.8c403217.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.8c403217.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/monsters-rolodex/static/media/Pacifico-Regular.9b94499c.ttf",
+    "static/media/logo.svg": "/monsters-rolodex/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d62735d.js",
+    "static/js/2.8c403217.chunk.js",
+    "static/css/main.aa470901.chunk.css",
+    "static/js/main.ca8f55b8.chunk.js"
+  ]
+}
